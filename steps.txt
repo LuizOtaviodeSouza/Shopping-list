@@ -10,6 +10,9 @@ cd ListaCompras
 Instalar o Router:
  npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
 
+Atualizar os dados antes de iniciar o projeto:
+npm i
+
 Iniciar o projeto no celular:
 npx expo start --localhost --android
 
