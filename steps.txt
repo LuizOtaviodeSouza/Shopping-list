@@ -31,3 +31,5 @@ Abrir o app.json e vai incluir a linha:
 
 Criar uma pasta scr
  Criar uma pasta app dentro
+
+ npx expo install @react-native-async-storage/async-storage
